@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 79dc0ac0eff56ec47b3bad15285c6f2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/Editor/Spawners/Pickers/ReverseOrderSpawnerEditor.cs
+  uploadId: 776899

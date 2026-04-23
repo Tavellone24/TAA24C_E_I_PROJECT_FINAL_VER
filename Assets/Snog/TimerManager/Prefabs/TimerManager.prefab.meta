@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: feac192c2c59ef64fb6b830beddd48c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344238
+  packageName: Snog's Timer Manager
+  packageVersion: 1.0
+  assetPath: Assets/Snog/TimerManager/Prefabs/TimerManager.prefab
+  uploadId: 818280

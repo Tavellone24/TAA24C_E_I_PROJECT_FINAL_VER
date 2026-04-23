@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9634035de6328ce4cad9436e812a032d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/Scripts/GameEvents/Listeners/BaseGameEventListener.cs
+  uploadId: 776899

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0299c6709b8ff34a90c73ee9857205d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Demo/Scenes/DemoScene_Spawners/NavMesh-GroundPlane.asset
+  uploadId: 776899

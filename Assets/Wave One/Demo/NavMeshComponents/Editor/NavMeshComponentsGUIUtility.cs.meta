@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 77fba670b979046f18d52d751e0d4659
+timeCreated: 1480524815
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Demo/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs
+  uploadId: 776899

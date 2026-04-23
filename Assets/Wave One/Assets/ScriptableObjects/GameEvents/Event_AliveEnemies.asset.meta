@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4729eab659c313a4bb41763a631f42b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/ScriptableObjects/GameEvents/Event_AliveEnemies.asset
+  uploadId: 776899

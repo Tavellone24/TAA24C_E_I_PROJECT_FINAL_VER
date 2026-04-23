@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b69fc7be6b099724a8154b2811be98f7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344238
+  packageName: Snog's Timer Manager
+  packageVersion: 1.0
+  assetPath: Assets/Snog/TimerManager/Scripts/Utils/GameTimer.cs
+  uploadId: 818280

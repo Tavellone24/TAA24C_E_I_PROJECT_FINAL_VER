@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da0abecf776f9c745b968612128ee42b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Demo/Scenes/DemoScene_DoubleWaveManagers/NavMesh-GroundPlane.asset
+  uploadId: 776899

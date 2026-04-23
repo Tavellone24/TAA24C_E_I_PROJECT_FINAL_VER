@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 123cf2fd5f3544d46ba752ffdc9925ea
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344238
+  packageName: Snog's Timer Manager
+  packageVersion: 1.0
+  assetPath: Assets/Snog/TimerManager/Demo/Demo.unity
+  uploadId: 818280

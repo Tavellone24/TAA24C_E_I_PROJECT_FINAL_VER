@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b79c39ddf78a32d4cb30a91e6ddc03fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/ScriptableObjects/GameEvents/Event_DeployedEnemies.asset
+  uploadId: 776899

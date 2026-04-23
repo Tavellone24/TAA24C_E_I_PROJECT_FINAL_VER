@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9017dbb41ad9c864abdf906adabbda8b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Demo/PreFabs/Agents/Agent_Cube.prefab
+  uploadId: 776899

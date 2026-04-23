@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b79cfd7a2deec0b42b9238fd8c8dc783
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/Editor/WaveManagerEditor.cs
+  uploadId: 776899

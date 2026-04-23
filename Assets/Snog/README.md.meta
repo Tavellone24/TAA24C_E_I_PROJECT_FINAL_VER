@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32e1af2f2f6fd8949b5136a39a8a1012
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344238
+  packageName: Snog's Timer Manager
+  packageVersion: 1.0
+  assetPath: Assets/Snog/README.md
+  uploadId: 818280

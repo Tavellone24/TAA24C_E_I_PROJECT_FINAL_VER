@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b7665be9ed366b34192d1e899263284d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/Editor/StartPoints/Pickers/RandomGuaranteedStartPointEditor.cs
+  uploadId: 776899

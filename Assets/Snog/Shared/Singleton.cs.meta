@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5b3c49a06a237004cbe1f924968de97a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 344238
+  packageName: Snog's Timer Manager
+  packageVersion: 1.0
+  assetPath: Assets/Snog/Shared/Singleton.cs
+  uploadId: 818280

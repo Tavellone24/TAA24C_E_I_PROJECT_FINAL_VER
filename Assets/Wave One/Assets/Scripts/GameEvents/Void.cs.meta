@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: acf844aaf836cc741b18130ba97f47c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Assets/Scripts/GameEvents/Void.cs
+  uploadId: 776899

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c0f3bef2a67ae4e139538afec3e59b03
+timeCreated: 1477036743
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156657
+  packageName: Wave One
+  packageVersion: 1.1
+  assetPath: Assets/Wave One/Demo/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs
+  uploadId: 776899
