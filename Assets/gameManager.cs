@@ -83,4 +83,24 @@ public class GameManager : MonoBehaviour
         surviveTimeText.gameObject.SetActive(true);
         surviveTimeText.text = "You Survived: " + timeSurvived.ToString("F2") + " seconds";
     }
+    [Header("Scream Management")]
+    public AudioSource screamSource; // Assign an AudioSource here
+    public int maxScreamsPerFrame = 2;
+    private int screamsThisFrame = 0;
+
+    void Update1()
+    {
+        // Reset the counter every frame
+        screamsThisFrame = 0;
+    }
+
+    public void RequestScream(AudioClip clip, Vector3 position)
+    {
+        if (screamsThisFrame < maxScreamsPerFrame)
+        {
+            // Play the sound from the GameManager's speaker at the enemy's location
+            AudioSource.PlayClipAtPoint(clip, position);
+            screamsThisFrame++;
+        }
+    }
 }

@@ -33,17 +33,11 @@ public class Enemy : MonoBehaviour
     {
         if (other.CompareTag("Sword"))
         {
-            // Play scream sound at this position right before destroying
-            AudioSource.PlayClipAtPoint(screamSound, transform.position);
-            
-            // Add any particle effects here
-            
-            Destroy(gameObject);
-        }
-        else if (other.CompareTag("PlayerBody"))
-        {
-            // The enemy touched the player! End the game.
-            gameManager.GameOver();
+            // Ask the manager to play the sound
+            gameManager.RequestScream(screamSound, transform.position);
+
+            Destroy(transform.root.gameObject);
         }
     }
+   
 }
